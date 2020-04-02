@@ -1,0 +1,40 @@
+.panel {
+  border: 1px solid gray;
+  border-radius: 10px;
+  background: lightgray;
+  margin-left: 5px;
+}
+
+.panel-heading {
+  background: lightgray;
+  border-bottom: 1px solid gray;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.annotations {
+  border-left: 1px solid #eaeaea;
+}
+
+#msg-container {
+  min-height: 190px;
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+  background: white;
+  padding: 5px;
+}
+
+.panel-footer {
+  padding: 5px;
+}
+
+#msg-input {
+  border: 1px solid gray;
+  background: white;
+  border-radius: 10px;
+}
+
+#msg-submit {
+  width: 75%;
+  margin-left: 12.5%;
+  margin-right: 12.5%;
+}
