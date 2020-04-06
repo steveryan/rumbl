@@ -17,10 +17,12 @@
 
 #msg-container {
   min-height: 190px;
+  max-height: 190px;
   border-top: 1px solid gray;
   border-bottom: 1px solid gray;
   background: white;
   padding: 5px;
+  overflow-y: scroll;
 }
 
 .panel-footer {
